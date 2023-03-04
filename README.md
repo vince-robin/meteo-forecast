@@ -2,7 +2,7 @@
 
 This Python script allows to get meteo forecast for a french city using requests to the Meteo Concept API.
 
-You need to create an account to have access to Meteo Concept API and get your API key [here](https://api.meteo-concept.com/login)
+You need to create an account to have access to Meteo Concept API and get your API key [here](https://api.meteo-concept.com/login).
 
 ## How to execute the program ?
 
