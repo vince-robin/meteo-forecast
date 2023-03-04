@@ -31,4 +31,4 @@ Veuillez faire votre choix entre 1 et 8 :
 
 For the choice number 2, the script plot some datas on different graphics using Matplotlib : 
 
-<img src = "14-day-forecast.png" width = 700>
+<img src = "14-day-forecast.png" width = 1080>
