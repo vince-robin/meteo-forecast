@@ -1,4 +1,4 @@
-# Weather forecast for a French city
+# Weather forecast for a French city  &#x26C5;
 
 This Python script allows to get meteo forecast for a french city using requests to the Meteo Concept API.
 
@@ -10,7 +10,7 @@ You need to create an account to have access to Meteo Concept API and get your A
 python3 -B main.py location   # -B to ignore the generation of byte codes in the folder __pycache__
 ```   
 
-The first argument is the name of the French city for which you want to get the weather forecast.
+The first argument "location" is the name of the French city for which you want to get the weather forecast.
 
 Then you have to choose which information to get according to the following possibilities :  
 
